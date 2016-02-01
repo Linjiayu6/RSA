@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # UTF-8 编码
 # Author: Lin Jiayu
-# School: HKBU
+# School: HKBU AIS
 # Tkinter: python GUI
 from Tkinter import *        
 import string 
